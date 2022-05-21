@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6B5AD9842838A04B009231A2 /* ListScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B5AD9832838A04B009231A2 /* ListScreen.swift */; };
 		6BB1105F28387FA000B0CAD5 /* NavigationPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB1105E28387FA000B0CAD5 /* NavigationPracticeApp.swift */; };
 		6BB1106128387FA000B0CAD5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB1106028387FA000B0CAD5 /* ContentView.swift */; };
 		6BB1106328387FA300B0CAD5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BB1106228387FA300B0CAD5 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6B5AD9832838A04B009231A2 /* ListScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListScreen.swift; sourceTree = "<group>"; };
 		6BB1105B28387FA000B0CAD5 /* NavigationPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigationPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BB1105E28387FA000B0CAD5 /* NavigationPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationPracticeApp.swift; sourceTree = "<group>"; };
 		6BB1106028387FA000B0CAD5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				6BB1106028387FA000B0CAD5 /* ContentView.swift */,
 				6BB1106228387FA300B0CAD5 /* Assets.xcassets */,
 				6BB1106428387FA300B0CAD5 /* Preview Content */,
+				6B5AD9832838A04B009231A2 /* ListScreen.swift */,
 			);
 			path = NavigationPractice;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6BB1106128387FA000B0CAD5 /* ContentView.swift in Sources */,
+				6B5AD9842838A04B009231A2 /* ListScreen.swift in Sources */,
 				6BB1105F28387FA000B0CAD5 /* NavigationPracticeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
